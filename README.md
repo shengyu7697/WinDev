@@ -7,3 +7,4 @@
 
 ### 函式庫
 [Boost C++ Libraries 官網](https://www.boost.org/) - [下載 boost_1_61_0-msvc-14.0-64.exe](https://sourceforge.net/projects/boost/files/boost-binaries/1.61.0/)  
+[opencv](https://opencv.org/releases.html) - [opencv-3.3.1-vc14.exe](https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.3.1/opencv-3.3.1-vc14.exe/download)  
